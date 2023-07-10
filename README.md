@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamrakshe1998
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React and python
-- 💞️ I’m looking to collaborate on React and python
+- 👀 I’m interested in React, Node
+- 🌱 I’m currently learning React, Node, and Python
+- 💞️ I’m looking to collaborate on React, Node, and Python
 - 📫 How to reach me shubhamrakshe1998@gmail.com
 
 <!---
